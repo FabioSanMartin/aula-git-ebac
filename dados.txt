@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Fábio Bruno
+-Profissão: QA
+-Cidade: Paranaguá-PR
+-O que faz nas horas vaga: Caminho
+-Feedback sobre o curso Qualidade de Software: Ótimo
+-Feedback sobre a plataforma de estudo da EBAC: alguns bugs no player
 
 Obrigado!!!
 
